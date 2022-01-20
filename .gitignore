@@ -166,6 +166,8 @@ sketch
 # comment the following lines
 !.yarn/cache
 
+yarn.lock
+
 # and uncomment the following lines
 # .pnp.*
 
@@ -194,3 +196,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /.idea/
+
+package-lock.json
